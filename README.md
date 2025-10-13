@@ -12,6 +12,12 @@
 </div>
 
 ---
+## 🏆 Conquistas
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pietradiez&theme=radical&hide_border=false)
+
+---
+
  🚀 Tecnologias que uso e estou aprendendo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

@@ -14,7 +14,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
- <img height="160em" src="![](https://github-contributor-stats.vercel.app/api?username=Pietradiez&limit=5&theme=radical&combine_all_yearly_contributions=true)"/>
+![](https://github-contributor-stats.vercel.app/api?username=Pietradiez&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 ---
@@ -29,7 +29,26 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-💬 Entre em contato comigo
 
-📧 pietradassalin@gmail.com 
+## 🏆 Conquistas no GitHub
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pietradiez&theme=tokyonight&hide_border=false)
+![trophy](https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=dracula&column=7&margin-w=10&margin-h=10)
+
+</div>
+
+## 💬 Contato
+
+<div align="center">
+  
+📫 **Email:** pietradassalin@gmail.com 
+💼 **LinkedIn:** https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
+
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
 

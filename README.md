@@ -3,10 +3,8 @@
 # 👋 Olá, eu sou a Pietra Diez Assalin!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP – Campus Capivari  
-💻 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de software  
 🌱 Atualmente aprendendo **Python**, **C**, **Java**, **HTML**, **CSS** e **JavaScript**  
 🎯 Foco: criar projetos que unam design, lógica e impacto positivo  
-⚡ Curiosidade: amo entender como as coisas funcionam “por baixo do capô” dos computadores!
 
 ---
 
@@ -34,14 +32,14 @@
 ---
 
 ## 🏆 Conquistas
-
 <div align="center">
 
-![GitHub Followers](https://img.shields.io/github/followers/Pietradiez?style=social&color=6a0dad)
-![GitHub Repos](https://img.shields.io/github/repos/Pietradiez?style=for-the-badge&color=6a0dad&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/Pietradiez?style=for-the-badge&color=6a0dad&logo=github)
+[![Followers](https://img.shields.io/github/followers/Pietradiez?label=Seguidores&style=for-the-badge&color=6a0dad)](https://github.com/Pietradiez)
+[![Repos](https://img.shields.io/github/repo-size/Pietradiez?style=for-the-badge&color=6a0dad)](https://github.com/Pietradiez)
+[![Stars](https://img.shields.io/github/stars/Pietradiez?style=for-the-badge&color=6a0dad)](https://github.com/Pietradiez)
 
 </div>
+
 
 ---
 

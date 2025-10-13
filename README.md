@@ -14,11 +14,12 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pietradiez&limit=5&theme=radical&combine_all_yearly_contributions=true)
+  <img height="160em"![](https://github-contributor-stats.vercel.app/api?username=Pietradiez&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 ---
  🚀 Tecnologias que uso e estou aprendendo
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

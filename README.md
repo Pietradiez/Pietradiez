@@ -12,6 +12,8 @@
 </div>
 
 ---
+![snake gif](https://github.com/Pietradiez/Pietradiez/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 Conquistas
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pietradiez&theme=radical&hide_border=false)

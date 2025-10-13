@@ -44,6 +44,7 @@
 <div align="center">
   
 📫 **Email:** pietradassalin@gmail.com 
+
 💼 **LinkedIn:** https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
 
 

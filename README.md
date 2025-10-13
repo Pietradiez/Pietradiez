@@ -41,11 +41,9 @@
 ## 💬 Contato
   
 📫 **Email:** pietradassalin@gmail.com 
+
 💼 **LinkedIn:** https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
 
 
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 

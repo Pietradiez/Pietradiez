@@ -32,11 +32,11 @@
 ---
 
 ## 🏆 Conquistas
-<div align="center">
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pietradiez&theme=tokyonight&hide_border=false)
+![trophy](https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=dracula&column=7&margin-w=10&margin-h=10)
 
-[![Followers](https://img.shields.io/github/followers/Pietradiez?label=Seguidores&style=for-the-badge&color=6a0dad)](https://github.com/Pietradiez)
-[![Repos](https://img.shields.io/github/repo-size/Pietradiez?style=for-the-badge&color=6a0dad)](https://github.com/Pietradiez)
-[![Stars](https://img.shields.io/github/stars/Pietradiez?style=for-the-badge&color=6a0dad)](https://github.com/Pietradiez)
+</div>
 
 </div>
 
@@ -68,8 +68,7 @@
 
 ---
 
-### ✨ Frase que me inspira
-> “A tecnologia move o mundo.” — Steve Jobs  
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">

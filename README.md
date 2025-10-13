@@ -4,6 +4,14 @@
  Atualmente estudando **Python**, **Banco de Dados** e **Desenvolvimento Web**
 
 ---
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pietradiez&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietradiez&layout=compact&theme=radical"/>
+</div>
+
+---
  🚀 Tecnologias que uso e estou aprendendo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

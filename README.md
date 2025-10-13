@@ -32,19 +32,15 @@
 
 ## 🏆 Conquistas no GitHub
 
-<div align="center">
-  
+ 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pietradiez&theme=tokyonight&hide_border=false)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=dracula&column=7&margin-w=10&margin-h=10)
 
 </div>
 
 ## 💬 Contato
-
-<div align="center">
   
 📫 **Email:** pietradassalin@gmail.com 
-
 💼 **LinkedIn:** https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
 
 

@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=200&section=header&text=Pietra%20Diez%20Assalin%20👩🏻‍💻&fontSize=35&fontColor=ffffff&animation=twinkling)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:4b0082&height=200&section=header&text=Pietra%20Diez%20Assalin%20👩🏻‍💻&fontSize=35&fontColor=ffffff&animation=twinkling)
 
 # 👋 Olá, eu sou a Pietra Diez Assalin!
 
@@ -36,9 +36,10 @@
 ## 🏆 Conquistas
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pietradiez&theme=dracula&hide_border=false)
-![trophy](https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=dracula&column=7&margin-w=10&margin-h=10)
+
+![GitHub Followers](https://img.shields.io/github/followers/Pietradiez?style=social&color=6a0dad)
+![GitHub Repos](https://img.shields.io/github/repos/Pietradiez?style=for-the-badge&color=6a0dad&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Pietradiez?style=for-the-badge&color=6a0dad&logo=github)
 
 </div>
 
@@ -78,4 +79,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:4b0082&height=120&section=footer)

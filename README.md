@@ -1,6 +1,6 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:4b0082&height=200&section=header&text=Pietra%20Diez%20Assalin%20👩🏻‍💻&fontSize=35&fontColor=ffffff&animation=twinkling)
 
-# 👋 Olá, eu sou a Pietra Diez Assalin!
+ Pietra Diez Assalin!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP – Campus Capivari  
 🌱 Atualmente aprendendo **Python**, **C**, **Java**, **HTML**, **CSS** e **JavaScript**  

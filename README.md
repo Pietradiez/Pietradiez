@@ -1,73 +1,72 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:4b0082&height=220&section=header&text=Pietra%20Diez%20Assalin%20👩🏻‍💻&fontSize=40&fontColor=ffffff&animation=twinkling)
+<!-- BANNER MODERNO DEGRADÊ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,18,24,30&text=Pietra%20Diez%20Assalin%20✨&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
 
-<div align="center">
+<h1 align="center">👩🏻‍💻 Bem-vinda(o) ao meu perfil!</h1>
 
-# ✨ Olá! Eu sou a **Pietra Diez Assalin** ✨  
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP – Capivari  
-🌱 Em constante evolução com **Python, C, Java, HTML, CSS e JavaScript**  
-🎨 Apaixonada por unir **design, lógica e impacto positivo**  
-
----
-
-# 🧠 Tecnologias & Ferramentas  
-
-</div>
-
-<div align="center">
-
-### 💻 Linguagens  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 🌐 Web  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
-
-### 🛢️ Banco de Dados  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Ferramentas  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+<p align="center">
+  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> no IFSP – Capivari <br>
+  Sempre explorando novas tecnologias e criando projetos que unem <b>design, lógica e impacto real.</b>  
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">🚀 Tecnologias & Ferramentas</h2>
 
-# 📊 Estatísticas do GitHub  
+<p align="center">
+  💻 <b>Linguagens</b><br><br>
+  <img src="https://skillicons.dev/icons?i=python,c,java" height="45"/>  
+  <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pietradiez&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietradiez&layout=compact&theme=radical&hide_border=true"/>
+  🌐 <b>Web</b><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="45"/>  
+  <br><br>
 
----
+  🗄️ <b>Banco de Dados</b><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>  
+  <br><br>
 
-# 🏆 Conquistas  
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Pietradiez&theme=tokyonight&hide_border=true"/>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=dracula&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-# 💬 Contato  
-
-📫 **Email:** pietra.assalin@email.com  
-💼 **LinkedIn:** [linkedin.com/in/pietradiezassalin](https://www.linkedin.com/in/pietradiezassalin)  
-🌐 **Portfólio:** [github.com/Pietradiez](https://github.com/Pietradiez)  
+  ⚙️ <b>Ferramentas</b><br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma" height="45"/>  
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
-</div>
+<h2 align="center">📊 Estatísticas</h2>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pietradiez&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietradiez&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:4b0082&height=140&section=footer)
+<h2 align="center">🏆 Conquistas</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pietradiez&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+<h2 align="center">📬 Contato</h2>
+
+<p align="center">
+  ✉️ <b>Email:</b> <a href="mailto:pietra.assalin@email.com">pietra.assalin@email.com</a> <br>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/pietradiezassalin">linkedin.com/in/pietradiezassalin</a> <br>
+  🌐 <b>Portfólio:</b> <a href="https://github.com/Pietradiez">github.com/Pietradiez</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280px">
+</p>
+
+<!-- FOOTER MODERNO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,12,18,24,30" />
+</p>

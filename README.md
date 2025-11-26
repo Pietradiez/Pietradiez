@@ -81,11 +81,28 @@
 
 ---
 <br>
-### 🏆 Troféus e Conquistas
+---
+
+## 🏆 Minhas Conquistas & Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=discord&no-bg=true&margin-w=10&row=1&column=4"/>
+  <!-- GitHub Stats -->
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Pietradiez&show_icons=true&theme=radical&hide_border=true&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&bg_color=0d0f33"/>
+  
+  <!-- Top Languages -->
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietradiez&layout=compact&theme=radical&hide_border=true&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&bg_color=0d0f33"/>
 </p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Pietradiez&theme=tokyonight&hide_border=true&background=0d0f33&card_width=450"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=gruvbox&no-bg=true&margin-w=15&row=1&column=5"/>
+</p>
+
 
 ## 📊 ESTATÍSTICAS GITHUB <span style="color:#cc0f8a;">// FLUXO DE DADOS</span>
 
@@ -115,14 +132,20 @@
 | **LinkedIn** | <a href="https://www.linkedin.com/in/pietra-diez-assalin-a6b9a1267/">linkedin.com/in/pietra-diez-assalin-a6b9a1267/</a> |
 | **GitHub** | <a href="https://github.com/Pietradiez">github.com/Pietradiez</a> |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:cc0f8a,50:3b0a80,100:0d0f33&section=footer"/>
-</p>
 ---
 
-## 👩🏻‍💻 Pessoa Programando
+## 👩🏻‍💻 Codificando no Flow
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Pessoa programando" width="400"/>
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Pessoa Programando" width="500" style="border-radius: 20px; box-shadow: 0 0 25px #cc0f8a;"/>
+</p>
+
+<p align="center" style="color:#ffffff;">
+  Mergulhando no código, solucionando problemas e criando projetos incríveis! 🚀
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:cc0f8a,50:3b0a80,100:0d0f33&section=footer"/>
 </p>
 

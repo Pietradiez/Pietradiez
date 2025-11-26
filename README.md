@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pietradiezassalin" target="_blank">
+  <a href="https://www.linkedin.com/in/pietra-diez-assalin-a6b9a1267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pietra.assalin@email.com" target="_blank">
+  <a href="mailto:pietradassalin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-CC0F8A?style=for-the-badge&logo=minutemailer&logoColor=white"/>
   </a>
   <a href="https://github.com/Pietradiez" target="_blank">
@@ -14,17 +14,17 @@
   </a>
 </p>
 
-<h1 align="center">👩🏻‍💻 DESENVOLVEDORA EM FORMAÇÃO | ADS</h1>
+<h1 align="center">👩🏻‍💻 DESENVOLVEDORA EM FOCO | ADS & TÉCNICA EM INFORMÁTICA</h1>
 
 <p align="center">
-  <span style="color:#ffffff;">Apaixonada por código, design e pela criação de **experiências digitais modernas**.<br>
-  Explorando o universo tech com foco em **lógica**, desenvolvimento **web** e **boas práticas** de programação.</span>
+  <span style="color:#ffffff;">Tenho 19 anos, foco em **Desenvolvimento Web e Back-end** e sou movida pela busca por **soluções eficientes**.<br>
+  Combinando a base técnica com o conhecimento em Análise de Sistemas, crio projetos modernos e bem estruturados.</span>
 </p>
 
 ---
 <br>
 
-## 🌌 SOBRE MIM <span style="color:#cc0f8a;">// PERFIL CYBER</span>
+## 🌌 SOBRE MIM <span style="color:#cc0f8a;">// PERFIL DE ACESSO</span>
 
 <table width="100%">
   <tr>
@@ -32,20 +32,20 @@
       
 | **DADOS PRINCIPAIS** | **INFO** |
 | :--- | :--- |
-| **Nome** | Pietra Diez Assalin |
-| **Curso** | Análise e Desenvolvimento de Sistemas (IFSP) |
-| **Foco** | Criar projetos modernos e funcionais, unindo lógica e UI. |
-| **Estilo** | Dark, Moderno e Colorido (Neon) |
-| **Valores** | Criatividade, Organização, Evolução Constante |
+| **Idade** | 19 Anos |
+| **Formação** | ADS - Análise e Desenvolvimento de Sistemas (IFSP) |
+| **Base Técnica** | Técnico em Informática (IFSP) |
+| **Foco** | Desenvolvimento, Lógica e Estrutura de Sistemas. |
+| **Estilo** | Dark, Moderno e Priorizando a UI/UX. |
     </td>
     <td width="50%">
       
-### 🎯 Áreas de Interesse (Focus)
+### 🎯 Habilidades Chave (Expertise)
 
-* **Front-end & Desenvolvimento Web**
-* **UX/UI Design** (A interface que transforma)
-* **Estruturas de Dados e Lógica**
-* **Clean Code** e Otimização de Sistemas
+* **Desenvolvimento Web** (Front-end e Back-end)
+* **Estruturas de Dados** e Lógica de Programação.
+* **Banco de Dados** Relacionais (SQL).
+* **Versionamento de Código** (Git & GitHub).
     </td>
   </tr>
 </table>
@@ -55,21 +55,21 @@
 ---
 <br>
 
-## 💻 STACK DE TECNOLOGIAS <span style="color:#cc0f8a;">// TOOLKIT</span>
+## 💻 STACK DE TECNOLOGIAS <span style="color:#cc0f8a;">// CORE TOOLKIT</span>
 
-<h3 align="left">📚 Linguagens (Core Knowledge)</h3>
+<h3 align="left">📚 Linguagens & Frameworks (Em Uso)</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" height="60" alt="Linguagens"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,flask" height="60" alt="Linguagens"/>
 </p>
 
-<h3 align="left">🛠 Ferramentas & Plataformas (Tools)</h3>
+<h3 align="left">🗄 Banco de Dados & Ferramentas (Tools)</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,mysql,postman" height="60" alt="Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" height="60" alt="Ferramentas"/>
 </p>
 
 <h3 align="left">🌠 Próximos Alvos (Next Focus)</h3>
 <p align="left">
-  **⚡ React** &nbsp; | &nbsp; **⚡ Node.js** &nbsp; | &nbsp; **⚡ Criação de APIs REST** &nbsp; | &nbsp; **⚡ UI/UX Avançado**
+  **⚡ React.js** &nbsp; | &nbsp; **⚡ Node.js** &nbsp; | &nbsp; **⚡ APIs REST Avançadas** &nbsp; | &nbsp; **⚡ Docker & Containers**
 </p>
 
 <br>
@@ -77,7 +77,7 @@
 ---
 <br>
 
-## 📊 ESTATÍSTICAS GITHUB <span style="color:#cc0f8a;">// DATA FLOW</span>
+## 📊 ESTATÍSTICAS GITHUB <span style="color:#cc0f8a;">// FLUXO DE DADOS</span>
 
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Pietradiez&show_icons=true&theme=midnight-purple&hide_border=true&title_color=cc0f8a&icon_color=ffffff&text_color=ffffff&bg_color=0d0f33&hide=prs"/> 
@@ -99,11 +99,11 @@
 
 <h3 align="left">Objetivos de Desenvolvimento e Contribuições</h3>
 <ul style="list-style-type: none; padding: 0;">
-  <li>✨ Criação de **Portfólio Dark Neon** com animações modernas e foco em UI.</li>
-  <li>✨ Desenvolvimento de um **Sistema CRUD** (Java ou Python) com ênfase em Clean Code.</li>
-  <li>✨ Construção de um **Website Responsivo** completo (HTML/CSS/JS) do zero.</li>
-  <li>✨ Prática e implementação de **API REST** para estudos.</li>
-  <li>✨ Projeto com **MySQL** integrado ao backend para manipulação de dados.</li>
+  <li>✨ **Sistema de Gerenciamento Web Completo** com Flask/Python e PostgreSQL.</li>
+  <li>✨ Criação de **API RESTful** robusta para serviços de dados.</li>
+  <li>✨ Desenvolvimento de um **Portfólio Dark Neon** responsivo utilizando React.</li>
+  <li>✨ Projeto com foco em **Estruturas de Dados** implementadas em C ou Java.</li>
+  <li>✨ Contribuição em projetos **Open Source** para aprimorar o trabalho em equipe.</li>
 </ul>
 
 <br>
@@ -114,14 +114,14 @@
 ## 📩 CONTATO <span style="color:#cc0f8a;">// TRANSMISSÃO</span>
 
 <p align="center">
-  Sinta-se à vontade para se conectar! Vamos colaborar em projetos inovadores.
+  Vamos conectar e transformar ideias em código!
 </p>
 
 | **PLATAFORMA** | **LINK/INFORMAÇÃO** |
 | :--- | :--- |
-| **Email** | <a href="mailto:pietra.assalin@email.com">pietra.assalin@email.com</a> |
-| **LinkedIn** | <a href="https://www.linkedin.com/in/pietradiezassalin">linkedin.com/in/pietradiezassalin</a> |
-| **GitHub** (Portfólio) | <a href="https://github.com/Pietradiez">github.com/Pietradiez</a> |
+| **Email** | <a href="mailto:pietradassalin@gmail.com">pietradassalin@gmail.com</a> |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/pietra-diez-assalin-a6b9a1267/">linkedin.com/in/pietra-diez-assalin-a6b9a1267/</a> |
+| **GitHub** | <a href="https://github.com/Pietradiez">github.com/Pietradiez</a> |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:cc0f8a,50:3b0a80,100:0d0f33&section=footer"/>

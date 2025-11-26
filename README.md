@@ -1,151 +1,82 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0f33,50:3b0a80,100:cc0f8a&text=Pietra%20Diez%20Assalin%20⚡&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&section=header"/>
-</p>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:4b0082&height=200&section=header&text=Pietra%20Diez%20Assalin%20👩🏻‍💻&fontSize=35&fontColor=ffffff&animation=twinkling)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pietra-diez-assalin-a6b9a1267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pietradassalin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-CC0F8A?style=for-the-badge&logo=minutemailer&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pietradiez" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+# 👋 Olá, eu sou a Pietra Diez Assalin!
 
-<h1 align="center">👩🏻‍💻 DESENVOLVEDORA EM FOCO | ADS & TÉCNICA EM INFORMÁTICA</h1>
-
-<p align="center">
-  <span style="color:#ffffff;">Tenho 19 anos, foco em **Desenvolvimento Web e Back-end** e sou movida pela busca por **soluções eficientes**.<br>
-  Combinando a base técnica com o conhecimento em Análise de Sistemas, crio projetos modernos e bem estruturados.</span>
-</p>
-
----
-<br>
-
-## 🌌 SOBRE MIM <span style="color:#cc0f8a;">// PERFIL DE ACESSO</span>
-
-<p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Pessoa programando" width="700"/>
-</p>
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      
-| **DADOS PRINCIPAIS** | **INFO** |
-| :--- | :--- |
-| **Idade** | 19 Anos |
-| **Formação** | ADS - Análise e Desenvolvimento de Sistemas (IFSP) |
-| **Base Técnica** | Técnico em Informática (IFSP) |
-| **Foco** | Desenvolvimento, Lógica e Estrutura de Sistemas. |
-| **Estilo** | Dark, Moderno e Priorizando a UI/UX. |
-    </td>
-    <td width="50%">
-      
-### 🎯 Habilidades Chave (Expertise)
-
-* **Desenvolvimento Web** (Front-end e Back-end)
-* **Estruturas de Dados** e Lógica de Programação.
-* **Banco de Dados** Relacionais (SQL).
-* **Versionamento de Código** (Git & GitHub).
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-<br>
-
-## 💻 STACK DE TECNOLOGIAS <span style="color:#cc0f8a;">// CORE TOOLKIT</span>
-
-<h3 align="left">📚 Linguagens & Frameworks (Em Uso)</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,flask" height="60" alt="Linguagens"/>
-</p>
-
-<h3 align="left">🗄 Banco de Dados & Ferramentas (Tools)</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" height="60" alt="Ferramentas"/>
-</p>
-
-<h3 align="left">🌠 Próximos Alvos (Next Focus)</h3>
-<p align="left">
-  **⚡ React.js** &nbsp; | &nbsp; **⚡ Node.js** &nbsp; | &nbsp; **⚡ APIs REST Avançadas** &nbsp; | &nbsp; **⚡ Docker & Containers**
-</p>
-
-<br>
-
----
-<br>
----
-
-## 🏆 Minhas Conquistas & Estatísticas GitHub
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Pietradiez&show_icons=true&theme=radical&hide_border=true&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&bg_color=0d0f33"/>
-  
-  <!-- Top Languages -->
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietradiez&layout=compact&theme=radical&hide_border=true&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&bg_color=0d0f33"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Pietradiez&theme=tokyonight&hide_border=true&background=0d0f33&card_width=450"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=gruvbox&no-bg=true&margin-w=15&row=1&column=5"/>
-</p>
-
-
-## 📊 ESTATÍSTICAS GITHUB <span style="color:#cc0f8a;">// FLUXO DE DADOS</span>
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Pietradiez&show_icons=true&theme=midnight-purple&hide_border=true&title_color=cc0f8a&icon_color=ffffff&text_color=ffffff&bg_color=0d0f33&hide=prs"/> 
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietradiez&layout=compact&theme=midnight-purple&hide_border=true&title_color=cc0f8a&icon_color=ffffff&text_color=ffffff&bg_color=0d0f33"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pietradiez&theme=tokyonight&hide_border=true&background=0d0f33&card_width=450"/> 
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=discord&no-bg=true&margin-w=10&title=Multiplicative,Achiever&row=1&column=4"/> 
-</p>
-
-<br>
-<br>
-
-## 📩 CONTATO <span style="color:#cc0f8a;">// TRANSMISSÃO</span>
-
-<p align="center">
-  Vamos conectar e transformar ideias em código!
-</p>
-
-| **PLATAFORMA** | **LINK/INFORMAÇÃO** |
-| :--- | :--- |
-| **Email** | <a href="mailto:pietradassalin@gmail.com">pietradassalin@gmail.com</a> |
-| **LinkedIn** | <a href="https://www.linkedin.com/in/pietra-diez-assalin-a6b9a1267/">linkedin.com/in/pietra-diez-assalin-a6b9a1267/</a> |
-| **GitHub** | <a href="https://github.com/Pietradiez">github.com/Pietradiez</a> |
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP – Campus Capivari  
+💻 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de software  
+🌱 Atualmente aprendendo **Python**, **C**, **Java**, **HTML**, **CSS** e **JavaScript**  
+🎯 Foco: criar projetos que unam design, lógica e impacto positivo  
+⚡ Curiosidade: amo entender como as coisas funcionam “por baixo do capô” dos computadores!
 
 ---
 
-## 👩🏻‍💻 Codificando no Flow
+## 🧠 Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Pessoa Programando" width="500" style="border-radius: 20px; box-shadow: 0 0 25px #cc0f8a;"/>
-</p>
+<div align="center">
 
-<p align="center" style="color:#ffffff;">
-  Mergulhando no código, solucionando problemas e criando projetos incríveis! 🚀
-</p>
+| 💻 Linguagens | 🌐 Web | 🛢️ Banco de Dados | ⚙️ Ferramentas |
+| :------------: | :----: | :----------------: | :-------------: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:cc0f8a,50:3b0a80,100:0d0f33&section=footer"/>
-</p>
+---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pietradiez&show_icons=true&theme=dracula&count_private=true&hide_border=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietradiez&layout=compact&theme=dracula&hide_border=false"/>
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+![GitHub Followers](https://img.shields.io/github/followers/Pietradiez?style=social&color=6a0dad)
+![GitHub Repos](https://img.shields.io/github/repos/Pietradiez?style=for-the-badge&color=6a0dad&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Pietradiez?style=for-the-badge&color=6a0dad&logo=github)
+
+</div>
+
+---
+
+## 📂 Projetos em Destaque
+
+- 🧾 [**Controle de Despesas em Python**](https://github.com/Pietradiez/controle-despesas)  
+  Interface gráfica com Tkinter para organizar gastos e calcular totais automaticamente.
+
+- 🌐 [**Portfólio Pessoal (em breve)**](https://github.com/Pietradiez/portfolio)  
+  Um site pessoal moderno, feito com HTML, CSS e JavaScript, para mostrar meus projetos.
+
+- 🧠 [**Desafios de Lógica e Algoritmos**](https://github.com/Pietradiez/desafios-logica)  
+  Exercícios e resoluções em C, Java e Python para treinar raciocínio lógico.
+
+---
+
+## 💬 Contato
+
+<div align="center">
+
+📫 **Email:** pietra.assalin@email.com  
+💼 **LinkedIn:** [linkedin.com/in/pietradiezassalin](https://www.linkedin.com/in/pietradiezassalin)  
+🌐 **Portfólio:** [github.com/Pietradiez](https://github.com/Pietradiez)
+
+</div>
+
+---
+
+### ✨ Frase que me inspira
+> “A tecnologia move o mundo.” — Steve Jobs  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
+</div>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:4b0082&height=120&section=footer)

@@ -81,6 +81,11 @@
 
 ---
 <br>
+### 🏆 Troféus e Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=discord&no-bg=true&margin-w=10&row=1&column=4"/>
+</p>
 
 ## 📊 ESTATÍSTICAS GITHUB <span style="color:#cc0f8a;">// FLUXO DE DADOS</span>
 
@@ -113,3 +118,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:cc0f8a,50:3b0a80,100:0d0f33&section=footer"/>
 </p>
+---
+
+## 👩🏻‍💻 Pessoa Programando
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Pessoa programando" width="400"/>
+</p>
+

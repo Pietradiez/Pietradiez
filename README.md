@@ -9,7 +9,7 @@
   <a href="mailto:pietradassalin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-CC0F8A?style=for-the-badge&logo=minutemailer&logoColor=white"/>
   </a>
-  <a href="https://github.com/Pietradiez" target="_blank">
+  <a href="https://github.com/[SEU_USERNAME_EXATO]" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -27,7 +27,7 @@
 ## 🌌 SOBRE MIM <span style="color:#cc0f8a;">// PERFIL DE ACESSO</span>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6523910_1280.png" alt="Pessoa programando" width="700"/>
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="Pessoa programando" width="700"/>
 </p>
 <br>
 
@@ -84,15 +84,17 @@
 
 ## 📊 ESTATÍSTICAS GITHUB <span style="color:#cc0f8a;">// FLUXO DE DADOS</span>
 
+**⚠️ ATENÇÃO: Substitua `[Pietradiez]` pelo seu username correto para que as imagens carreguem.**
+
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Pietradiez&show_icons=true&theme=midnight-purple&hide_border=true&title_color=cc0f8a&icon_color=ffffff&text_color=ffffff&bg_color=0d0f33&hide=prs"/> 
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietradiez&layout=compact&theme=midnight-purple&hide_border=true&title_color=cc0f8a&icon_color=ffffff&text_color=ffffff&bg_color=0d0f33"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME_EXATO]&show_icons=true&theme=midnight-purple&hide_border=true&title_color=cc0f8a&icon_color=ffffff&text_color=ffffff&bg_color=0d0f33&hide=prs"/> 
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME_EXATO]&layout=compact&theme=midnight-purple&hide_border=true&title_color=cc0f8a&icon_color=ffffff&text_color=ffffff&bg_color=0d0f33"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pietradiez&theme=tokyonight&hide_border=true&background=0d0f33&card_width=450"/> 
+  <img src="https://streak-stats.demolab.com?user=[SEU_USERNAME_EXATO]&theme=tokyonight&hide_border=true&background=0d0f33&card_width=450"/> 
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=discord&no-bg=true&margin-w=10&title=Multiplicative,Achiever&row=1&column=4"/> 
+  <img src="https://github-profile-trophy.vercel.app/?username=[SEU_USERNAME_EXATO]&theme=discord&no-bg=true&margin-w=10&title=Multiplicative,Achiever&row=1&column=4"/> 
 </p>
 
 <br>
@@ -100,20 +102,7 @@
 ---
 <br>
 
-## 📦 PROJETOS FUTUROS <span style="color:#cc0f8a;">// LOG DE MISSÕES</span>
 
-<h3 align="left">Objetivos de Desenvolvimento e Contribuições</h3>
-<ul style="list-style-type: none; padding: 0;">
-  <li>✨ **Sistema de Gerenciamento Web Completo** com Flask/Python e PostgreSQL.</li>
-  <li>✨ Criação de **API RESTful** robusta para serviços de dados.</li>
-  <li>✨ Desenvolvimento de um **Portfólio Dark Neon** responsivo utilizando React.</li>
-  <li>✨ Projeto com foco em **Estruturas de Dados** implementadas em C ou Java.</li>
-  <li>✨ Contribuição em projetos **Open Source** para aprimorar o trabalho em equipe.</li>
-</ul>
-
-<br>
-
----
 <br>
 
 ## 📩 CONTATO <span style="color:#cc0f8a;">// TRANSMISSÃO</span>
@@ -126,7 +115,7 @@
 | :--- | :--- |
 | **Email** | <a href="mailto:pietradassalin@gmail.com">pietradassalin@gmail.com</a> |
 | **LinkedIn** | <a href="https://www.linkedin.com/in/pietra-diez-assalin-a6b9a1267/">linkedin.com/in/pietra-diez-assalin-a6b9a1267/</a> |
-| **GitHub** | <a href="https://github.com/Pietradiez">github.com/Pietradiez</a> |
+| **GitHub** | <a href="https://github.com/[SEU_USERNAME_EXATO]">github.com/[SEU_USERNAME_EXATO]</a> |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:cc0f8a,50:3b0a80,100:0d0f33&section=footer"/>

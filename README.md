@@ -13,7 +13,6 @@
 
 ## <h2 align="center">🧩 Sobre mim</h2>
 
-```yaml
 name: "Pietra Diez Assalin"
 role: "Estudante de Análise e Desenvolvimento de Sistemas - IFSP"
 interests: ["Desenvolvimento Web", "UX/UI", "Lógica de Programação"]
@@ -42,7 +41,7 @@ traits:
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Pietradiez&theme=tokyonight&hide_border=true&border_radius=10"/> <br><br> <img src="https://github-profile-trophy.vercel.app/?username=Pietradiez&theme=algolia&no-bg=true&margin-w=10"/> </p>
 <h2 align="center">📦 Projetos que pretendo desenvolver</h2>
 md
-Copiar código
+
 🔸 Sistema de cadastro (C ou Java)
 🔸 Website completo com HTML/CSS/JS
 🔸 API simples com Python

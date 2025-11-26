@@ -14,38 +14,38 @@
   </a>
 </p>
 
-<h1 align="center">👩🏻‍💻 DEVELOPER IN TRAINING | ADS</h1>
+<h1 align="center">👩🏻‍💻 DESENVOLVEDORA EM FORMAÇÃO | ADS</h1>
 
 <p align="center">
-  <span style="color:#ffffff;">Apaixonada por programação, design e pela criação de **experiências digitais modernas**.<br>
-  Explorando o universo tech com foco em lógica, desenvolvimento **web** e **boas práticas** de código.</span>
+  <span style="color:#ffffff;">Apaixonada por código, design e pela criação de **experiências digitais modernas**.<br>
+  Explorando o universo tech com foco em **lógica**, desenvolvimento **web** e **boas práticas** de programação.</span>
 </p>
 
 ---
 <br>
 
-## 🌌 ABOUT ME <span style="color:#cc0f8a;">// CYBER PROFILE</span>
+## 🌌 SOBRE MIM <span style="color:#cc0f8a;">// PERFIL CYBER</span>
 
 <table width="100%">
   <tr>
     <td width="50%">
       
-| **ATTRIBUTE** | **DATA** |
+| **DADOS PRINCIPAIS** | **INFO** |
 | :--- | :--- |
 | **Nome** | Pietra Diez Assalin |
 | **Curso** | Análise e Desenvolvimento de Sistemas (IFSP) |
-| **Objetivo** | Criar projetos modernos e funcionais, unindo lógica e UI |
+| **Foco** | Criar projetos modernos e funcionais, unindo lógica e UI. |
 | **Estilo** | Dark, Moderno e Colorido (Neon) |
 | **Valores** | Criatividade, Organização, Evolução Constante |
     </td>
     <td width="50%">
       
-### 🎯 Foco e Interesses
+### 🎯 Áreas de Interesse (Focus)
 
-* **Front-end & Web Development**
-* **UX/UI Design** (A interface que importa)
-* **APIs e Lógica de Negócio**
-* **Clean Code** e Otimização
+* **Front-end & Desenvolvimento Web**
+* **UX/UI Design** (A interface que transforma)
+* **Estruturas de Dados e Lógica**
+* **Clean Code** e Otimização de Sistemas
     </td>
   </tr>
 </table>
@@ -55,9 +55,9 @@
 ---
 <br>
 
-## 💻 TECH STACK <span style="color:#cc0f8a;">// SKILLS & TOOLS</span>
+## 💻 STACK DE TECNOLOGIAS <span style="color:#cc0f8a;">// TOOLKIT</span>
 
-<h3 align="left">📚 Linguagens em Estudo (Core)</h3>
+<h3 align="left">📚 Linguagens (Core Knowledge)</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" height="60" alt="Linguagens"/>
 </p>
@@ -67,9 +67,9 @@
   <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,mysql,postman" height="60" alt="Ferramentas"/>
 </p>
 
-<h3 align="left">🌠 Próximo Upgrade (Next Focus)</h3>
+<h3 align="left">🌠 Próximos Alvos (Next Focus)</h3>
 <p align="left">
-  **⚡ React** &nbsp; | &nbsp; **⚡ Node.js** &nbsp; | &nbsp; **⚡ APIs REST** &nbsp; | &nbsp; **⚡ UI/UX Avançado**
+  **⚡ React** &nbsp; | &nbsp; **⚡ Node.js** &nbsp; | &nbsp; **⚡ Criação de APIs REST** &nbsp; | &nbsp; **⚡ UI/UX Avançado**
 </p>
 
 <br>
@@ -77,7 +77,7 @@
 ---
 <br>
 
-## 📊 GITHUB STATS <span style="color:#cc0f8a;">// DATA FLOW</span>
+## 📊 ESTATÍSTICAS GITHUB <span style="color:#cc0f8a;">// DATA FLOW</span>
 
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Pietradiez&show_icons=true&theme=midnight-purple&hide_border=true&title_color=cc0f8a&icon_color=ffffff&text_color=ffffff&bg_color=0d0f33&hide=prs"/> 
@@ -95,15 +95,15 @@
 ---
 <br>
 
-## 📦 PROJECT TRACKER <span style="color:#cc0f8a;">// MISSIONS LOG</span>
+## 📦 PROJETOS FUTUROS <span style="color:#cc0f8a;">// LOG DE MISSÕES</span>
 
-<h3 align="left">Futuras Contribuições & Objetivos</h3>
+<h3 align="left">Objetivos de Desenvolvimento e Contribuições</h3>
 <ul style="list-style-type: none; padding: 0;">
-  <li>✨ Portfolio Dark Neon com Animações Modernas</li>
-  <li>✨ Sistema CRUD Simples (Java ou Python) com foco em Clean Code</li>
-  <li>✨ Website Responsivo e Completo (HTML/CSS/JS)</li>
-  <li>✨ Criação de API REST de Estudos</li>
-  <li>✨ Projeto Integrado com MySQL e Backend Funcional</li>
+  <li>✨ Criação de **Portfólio Dark Neon** com animações modernas e foco em UI.</li>
+  <li>✨ Desenvolvimento de um **Sistema CRUD** (Java ou Python) com ênfase em Clean Code.</li>
+  <li>✨ Construção de um **Website Responsivo** completo (HTML/CSS/JS) do zero.</li>
+  <li>✨ Prática e implementação de **API REST** para estudos.</li>
+  <li>✨ Projeto com **MySQL** integrado ao backend para manipulação de dados.</li>
 </ul>
 
 <br>
@@ -111,10 +111,10 @@
 ---
 <br>
 
-## 📩 CONTACT <span style="color:#cc0f8a;">// TRANSMISSION</span>
+## 📩 CONTATO <span style="color:#cc0f8a;">// TRANSMISSÃO</span>
 
 <p align="center">
-  Sinta-se à vontade para se conectar! Vamos construir o futuro juntos.
+  Sinta-se à vontade para se conectar! Vamos colaborar em projetos inovadores.
 </p>
 
 | **PLATAFORMA** | **LINK/INFORMAÇÃO** |

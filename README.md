@@ -26,6 +26,11 @@
 
 ## 🌌 SOBRE MIM <span style="color:#cc0f8a;">// PERFIL DE ACESSO</span>
 
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6523910_1280.png" alt="Pessoa programando" width="700"/>
+</p>
+<br>
+
 <table width="100%">
   <tr>
     <td width="50%">

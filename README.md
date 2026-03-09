@@ -1,15 +1,17 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:4b0082&height=200&section=header&text=Pietra%20Diez%20Assalin%20👩🏻‍💻&fontSize=35&fontColor=ffffff&animation=twinkling)
 
-# 👋 Olá, eu sou a Pietra Diez Assalin!
+# 👋 Oi! Eu sou a Pietra
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP – Campus Capivari  
-🌱 Atualmente aprendendo **Python**, **C**, **Java**, **HTML**, **CSS** e **JavaScript**  
-🎯 Foco: criar projetos que unam design, lógica e impacto positivo  
-⚡ Curiosidade: amo entender como as coisas funcionam “por baixo do capô” dos computadores!
+
+Atualmente estou aprendendo e praticando desenvolvimento com **Python, C, Java, HTML, CSS e JavaScript**.  
+Gosto de criar projetos para treinar lógica, entender melhor como os sistemas funcionam e evoluir como desenvolvedora.
+
+💡 Curto bastante explorar **como as coisas funcionam por trás dos computadores** e transformar isso em pequenos projetos.
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🧰 Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -22,6 +24,7 @@
 </div>
 
 ---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -31,45 +34,33 @@
 
 ---
 
-## 🏆 Conquistas
+## 📂 Alguns projetos
 
-<div align="center">
+- 🧾 **Controle de Despesas em Python**  
+  Aplicação com interface em Tkinter para registrar gastos e calcular totais automaticamente.  
+  👉 https://github.com/Pietradiez/controle-despesas
 
-[![Followers](https://img.shields.io/github/followers/Pietradiez?label=Seguidores&style=for-the-badge&color=6a0dad)](https://github.com/Pietradiez)
-[![Repos](https://img.shields.io/github/repo-size/Pietradiez?style=for-the-badge&color=6a0dad)](https://github.com/Pietradiez)
-[![Stars](https://img.shields.io/github/stars/Pietradiez?style=for-the-badge&color=6a0dad)](https://github.com/Pietradiez)
+- 🌐 **Portfólio pessoal (em desenvolvimento)**  
+  Um site para reunir meus projetos e experiências com desenvolvimento web.  
+  👉 https://github.com/Pietradiez/portfolio
 
-</div>
-
----
-
-## 📂 Projetos em Destaque
-
-- 🧾 [**Controle de Despesas em Python**](https://github.com/Pietradiez/controle-despesas)  
-  Interface gráfica com Tkinter para organizar gastos e calcular totais automaticamente.
-
-- 🌐 [**Portfólio Pessoal (em breve)**](https://github.com/Pietradiez/portfolio)  
-  Um site pessoal moderno, feito com HTML, CSS e JavaScript, para mostrar meus projetos.
-
-- 🧠 [**Desafios de Lógica e Algoritmos**](https://github.com/Pietradiez/desafios-logica)  
-  Exercícios e resoluções em C, Java e Python para treinar raciocínio lógico.
+- 🧠 **Desafios de lógica e algoritmos**  
+  Exercícios resolvidos em C, Java e Python para praticar lógica de programação.  
+  👉 https://github.com/Pietradiez/desafios-logica
 
 ---
 
-## 💬 Contato
+## 📬 Contato
 
-<div align="center">
-
-📫 **Email:** pietra.assalin@email.com  
-💼 **LinkedIn:** [linkedin.com/in/pietradiezassalin](https://www.linkedin.com/in/pietradiezassalin)  
-🌐 **Portfólio:** [github.com/Pietradiez](https://github.com/Pietradiez)
-
-</div>
+📫 Email: pietra.assalin@email.com  
+💼 LinkedIn: https://www.linkedin.com/in/pietradiezassalin  
+🌐 GitHub: https://github.com/Pietradiez
 
 ---
 
-### ✨ Frase que me inspira
-> “A tecnologia move o mundo.” — Steve Jobs  
+### 💭 Algo que eu gosto de lembrar
+
+> “A tecnologia move o mundo.” — Steve Jobs
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">

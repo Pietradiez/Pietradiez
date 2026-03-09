@@ -12,7 +12,7 @@
 
 ---
 
-# 👋 Oi! Eu sou a Pietra
+#  Oi! Eu sou a Pietra
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP – Campus Capivari**
 
@@ -71,16 +71,6 @@ Gosto de aprender criando projetos e explorando como os sistemas funcionam por t
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pietradiez\&bg_color=0d1117\&color=ffffff\&line=6a0dad\&point=ffffff\&area=true\&hide_border=true)](https://github.com/Pietradiez)
-
-</div>
-
----
-
-# 🐍 Contribuições
-
-<div align="center">
-
-![Snake animation](https://github.com/Pietradiez/Pietradiez/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -155,9 +145,6 @@ https://github.com/Pietradiez
 
 ---
 
-### 💭 Algo que me inspira
-
-> “A tecnologia move o mundo.” — Steve Jobs
 
 <div align="center">
 

@@ -6,7 +6,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA\&size=24\&center=true\&vCenter=true\&width=600\&lines=Estudante+de+ADS;Aprendendo+Python+C+Java+e+Web;Apaixonada+por+tecnologia+e+programação)](https://git.io/typing-svg)
 
 </div>
 
